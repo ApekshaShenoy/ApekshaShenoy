@@ -1,7 +1,3 @@
-Here’s a polished version that keeps it professional, emphasizes your skills and projects, and uses minimal, tasteful emojis to make it approachable without sounding like a student profile:
-
----
-
 # Hi there 👋, I'm Apeksha Shenoy
 
 Python Developer | AI & ML Enthusiast | Exploring Data Engineering
@@ -73,6 +69,3 @@ Practicing secure coding and following best engineering practices
 * Email: [apekshashenoy.1992@gmail.com](mailto:apekshashenoy.1992@gmail.com)
 
 ---
-
-
-Do you want me to do that next?
