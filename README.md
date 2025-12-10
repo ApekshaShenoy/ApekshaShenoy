@@ -1,29 +1,78 @@
-# 👋 Hi, I'm Apeksha!
+Here’s a polished version that keeps it professional, emphasizes your skills and projects, and uses minimal, tasteful emojis to make it approachable without sounding like a student profile:
 
-### 💻 Aspiring Web Developer | Learning Django | Passionate About IT
+---
 
-I'm a **computer science graduate** diving deep into web development! Currently, I'm focused on **Python and Django** to build scalable web applications. I'm on a journey to break into the **IT industry in Stockholm** and am documenting my learning through projects.
+# Hi there 👋, I'm Apeksha Shenoy
 
-### 🚀 What I'm Working On
-- 📖 Studying **Python** & **Django** to upskill
-- 🔨 Refining my **GitHub Profile & Projects**
+Python Developer | AI & ML Enthusiast | Exploring Data Engineering
 
-### 💡 Skills & Technologies
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Django (Learning), Bootstrap,React
-- **Tools & Platforms:** Git, GitHub, VS Code
+I’m a computer science graduate reigniting my tech career with a focus on Python, AI, machine learning, and modern development tools. I’m currently building hands-on experience through projects that demonstrate my skills and growth in software development and AI-driven solutions.
 
-### 📌 Featured Projects
-- 🌐 [HTML & CSS Projects](https://github.com/ApekshaShenoy) 
-- 📋 *More coming soon...*
+---
 
-### 📊 GitHub Stats
-![Apeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApekshaShenoy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaShenoy&layout=compact&theme=tokyonight)
+## Current Focus 🎯
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/apeksha-shenoy-mangalpady/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:apekshashenoy.1992@gmail.com)
+**Python & Programming Foundations**
 
-🔹 _"The best way to learn is by doing."_ I'm open to collaborations, discussions, and learning opportunities. Let's grow together! 🚀
+* Python fundamentals, object-oriented programming, problem-solving
+* Writing clean, maintainable, and efficient code
 
+**AI, Machine Learning & Deep Learning**
+
+* Core AI concepts and ML models with Scikit-Learn
+* Intro to deep learning and practical AI applications
+
+**Data Engineering Basics**
+
+* Working with data and ETL pipelines
+* Databases like SQLite, exploring advanced data workflows
+
+**Web Development**
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Django, building functional web applications
+
+**Tools & Environment**
+VS Code, Git/GitHub, Anaconda, Docker (beginner), Trello, Jira
+
+**Security Awareness**
+Practicing secure coding and following best engineering practices
+
+---
+
+## What I’m Working On 💻
+
+* Daily Python coding and hands-on problem-solving
+* AI and ML projects to strengthen practical skills
+* Organizing GitHub with clear, meaningful repositories
+* Small Django and Python projects to demonstrate progress
+* Exploring AI, ML, and data engineering career paths
+
+---
+
+## Skills & Technologies 🛠️
+
+**Languages:** Python, HTML, CSS, JavaScript
+**Frameworks:** Django (learning), Bootstrap
+**Tools:** Git, GitHub, VS Code, Anaconda
+**Interests:** AI, ML, data engineering, backend development
+
+---
+
+## Featured Projects 📂
+
+* HTML and CSS mini-projects
+* Python fundamentals labs
+* AI, ML, and Django projects (in progress)
+
+---
+
+## Connect with Me 🔗
+
+* [LinkedIn]([https://www.linkedin.com/in/apekshashenoy](https://www.linkedin.com/in/apeksha-shenoy-mangalpady/))
+* Email: [apekshashenoy.1992@gmail.com](mailto:apekshashenoy.1992@gmail.com)
+
+---
+
+
+Do you want me to do that next?
