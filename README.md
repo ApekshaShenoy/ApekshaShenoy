@@ -66,6 +66,6 @@ Practicing secure coding and following best engineering practices
 ## Connect with Me 🔗
 
 * [LinkedIn]([https://www.linkedin.com/in/apekshashenoy](https://www.linkedin.com/in/apeksha-shenoy-mangalpady/))
-* Email: [apekshashenoy.1992@gmail.com](mailto:apekshashenoy.1992@gmail.com)
+* Email:(mailto:apekshashenoy.1992@gmail.com)
 
 ---
